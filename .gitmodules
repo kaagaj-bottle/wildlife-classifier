@@ -1,3 +1,6 @@
 [submodule "wildlife-classifier-flask-server"]
 	path = wildlife-classifier-flask-server
 	url = https://github.com/kaagaj-bottle/wildlife-classifier-flask-server.git
+[submodule "wildlife-classifier-notebook-and-utils"]
+	path = wildlife-classifier-notebook-and-utils
+	url = https://github.com/kaagaj-bottle/wildlife-classifier-notebook-and-utils.git
